@@ -1,4 +1,3 @@
-```cpp
 #include <WiFi.h>
 #include <HTTPClient.h>
 
@@ -55,4 +54,3 @@ void loop() {
   lastState = state;
   delay(20);
 }
-```
